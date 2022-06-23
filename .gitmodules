@@ -1,0 +1,3 @@
+[submodule "sample-hexmix.nproject"]
+	path = sample-hexmix.nproject
+	url = https://github.com/nginetechnologies/sample-hexmix.nproject.git
