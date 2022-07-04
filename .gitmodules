@@ -4,3 +4,6 @@
 [submodule "sample-block_breaker.nproject"]
 	path = sample-block_breaker.nproject
 	url = https://github.com/nginetechnologies/sample-block_breaker.nproject.git
+[submodule "sample-solaris.nproject"]
+	path = sample-solaris.nproject
+	url = https://github.com/nginetechnologies/sample-solaris.nproject.git
