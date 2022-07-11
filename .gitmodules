@@ -7,3 +7,6 @@
 [submodule "sample-solaris.nproject"]
 	path = sample-solaris.nproject
 	url = https://github.com/nginetechnologies/sample-solaris.nproject.git
+[submodule "sample-stompem.nproject"]
+	path = sample-stompem.nproject
+	url = https://github.com/nginetechnologies/sample-stompem.nproject.git
