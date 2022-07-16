@@ -10,3 +10,12 @@
 [submodule "sample-stompem.nproject"]
 	path = sample-stompem.nproject
 	url = https://github.com/nginetechnologies/sample-stompem.nproject.git
+[submodule "sample-alchemedes.nproject"]
+	path = sample-alchemedes.nproject
+	url = https://github.com/nginetechnologies/sample-alchemedes.nproject.git
+[submodule "sample-dungeon-born.nproject"]
+	path = sample-dungeon-born.nproject
+	url = https://github.com/nginetechnologies/sample-dungeon-born.nproject.git
+[submodule "sample-mindkraft.nproject"]
+	path = sample-mindkraft.nproject
+	url = https://github.com/nginetechnologies/sample-mindkraft.nproject.git
