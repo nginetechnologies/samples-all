@@ -19,3 +19,9 @@
 [submodule "sample-mindkraft.nproject"]
 	path = sample-mindkraft.nproject
 	url = https://github.com/nginetechnologies/sample-mindkraft.nproject.git
+[submodule "sample-madball.nproject"]
+	path = sample-madball.nproject
+	url = https://github.com/nginetechnologies/sample-madball.nproject.git
+[submodule "sample-rogue-mars.nproject"]
+	path = sample-rogue-mars.nproject
+	url = https://github.com/nginetechnologies/sample-rogue-mars.nproject.git
