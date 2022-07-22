@@ -25,3 +25,6 @@
 [submodule "sample-rogue-mars.nproject"]
 	path = sample-rogue-mars.nproject
 	url = https://github.com/nginetechnologies/sample-rogue-mars.nproject.git
+[submodule "sample-augmented-buzzy.nproject"]
+	path = sample-augmented-buzzy.nproject
+	url = https://github.com/nginetechnologies/sample-augmented-buzzy.nproject.git
