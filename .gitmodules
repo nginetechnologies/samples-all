@@ -28,3 +28,6 @@
 [submodule "sample-augmented-buzzy.nproject"]
 	path = sample-augmented-buzzy.nproject
 	url = https://github.com/nginetechnologies/sample-augmented-buzzy.nproject.git
+[submodule "sample-quack-attack.nproject"]
+	path = sample-quack-attack.nproject
+	url = https://github.com/nginetechnologies/sample-quack-attack.nproject.git
