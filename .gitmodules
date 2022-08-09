@@ -31,3 +31,6 @@
 [submodule "sample-quack-attack.nproject"]
 	path = sample-quack-attack.nproject
 	url = https://github.com/nginetechnologies/sample-quack-attack.nproject.git
+[submodule "sample-tappy-plane.nproject"]
+	path = sample-tappy-plane.nproject
+	url = https://github.com/nginetechnologies/sample-tappy-plane.nproject.git
