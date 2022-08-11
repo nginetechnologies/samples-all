@@ -34,3 +34,6 @@
 [submodule "sample-formula.nproject"]
 	path = sample-formula.nproject
 	url = https://github.com/nginetechnologies/sample-formula.nproject.git
+[submodule "sample-tappy-plane.nproject"]
+	path = sample-tappy-plane.nproject
+	url = https://github.com/nginetechnologies/sample-tappy-plane.nproject.git
