@@ -37,3 +37,6 @@
 [submodule "sample-tappy-plane.nproject"]
 	path = sample-tappy-plane.nproject
 	url = https://github.com/nginetechnologies/sample-tappy-plane.nproject.git
+[submodule "sample-barrio-kart.nproject"]
+	path = sample-barrio-kart.nproject
+	url = https://github.com/nginetechnologies/sample-barrio-kart.nproject.git
